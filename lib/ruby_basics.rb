@@ -1,6 +1,6 @@
 def division(num1, num2)
- quotient = round(num1/num2)
- return quotient
+ quotient = num1/num2
+ return quotient.round
 end
 
 def assign_variable(value)
