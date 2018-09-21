@@ -3,7 +3,7 @@ def division(num1, num2)
  return quotient.round
 end
 
-def assign_variable(name)
+def assign_variable(value)
   name = value
 end
 
