@@ -3,8 +3,8 @@ def division(num1, num2)
  return quotient.round
 end
 
-def assign_variable(value)
-  
+def assign_variable(name)
+  name = variable
 end
 
 def argue
